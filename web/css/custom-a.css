@@ -1,0 +1,71 @@
+
+      .container{
+        display: block;
+        padding: 0px 0px;
+        margin: 0 auto;
+        overflow-y: auto;
+        overflow-x: hidden;
+        width: 100%;
+        backface-visibility: hidden;
+        will-change: overflow;   
+        background: #e7e7e7;
+        }
+
+    #contaner-right{
+     margin-top: 3px;
+     margin-bottom: 40px;
+     position:fixed;
+     z-index:999;
+    }
+    #reg-farmers{
+     border: 1px solid #ccc;
+    }
+    #contaner-right {
+     right:0;   
+    }
+
+    #pagewraper{
+     position:relative;
+     left:2%;
+    }        
+
+        
+    .nav.offset{
+    width: 37px;
+    }   
+    .navbar-right{
+    margin-right: 25px;
+    }   
+    #head_slack{ /* we make this one the same size so no text is ever covered */
+    width:100%; /* make sure the width of the slack is 100% */
+    height: 50px;  /* make sure the hight of the slack is the same as the head fixed */
+    }
+    #advertisehere{
+    width:100%;
+    height: 100%;
+    overflow:visible;
+    }
+    #agro-market{
+    width:100%;
+    height: 100%;
+    overflow:visible;
+    }
+    #advert-container{
+    overflow-y:auto; 
+    overflow-x:hidden; 
+    height:100%;
+    }
+    #agro-market-container{
+    overflow-y:auto; 
+    overflow-x:hidden; 
+    height: 100%;
+    margin-bottom: 50px;
+
+    }
+    /*fonts*/
+    h6{
+        font-family: 'Open Sans', sans-serif;
+	font-size:12px;
+	font-weight:inherit;
+	vertical-align:middle;
+    }

@@ -1,0 +1,50 @@
+/*-- disabled element--*/
+.js #camera_access{
+    display: none;
+}
+.js #take_snapshot{
+    display: none;
+}
+.js #take_another{
+    display: none;
+}
+.js #save_photo{
+    display: none;
+}
+.js #reset_photo{
+    display: none;
+}
+.js #proceed-to-personal-data{
+    display: none;
+}
+.js #proceed-to-contact-data{
+    display: none;
+}
+.js #proceed-to-knowledge-data{
+    display: none;
+}
+.js #proceed-to-origin-data{
+    display: none;
+}
+.js #proceed-to-nextofkin-data{
+    display: none;
+}
+.js #proceed-to-captcha-data{
+    display: none;
+}
+.js #proceed-to-submit{
+    display: none;
+}
+.js #reset-form{
+    display: none;
+}
+
+.js #camera_zone{
+    display: none;
+}
+.js #pin_phone_block{
+    display: none;
+}
+.js #servermsg{
+    display: none;
+}
